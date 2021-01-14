@@ -3,3 +3,4 @@ dot files under home directory
 
 .vimrc test
 .test2
+.test3
